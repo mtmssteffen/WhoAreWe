@@ -1,4 +1,4 @@
-# WhoAreWe
+# Who Are We?
 project2-6 for Udacity Data Science course
 See https://github.com/mtmssteffen/mtmssteffen.github.io for blog post 
 
@@ -19,6 +19,9 @@ Family history compiled, cleaned, labeled, merged, and analyzed from multiple so
 https://github.com/mtmssteffen/dsnd-communicating-to-stakeholders-lesson
  - Ancestor_data.csv:  Genealogy of ancestors, uniquely ID each individual, giving family surname, gendter, birth & death year & location, IDs of parents, and an intepretation of the country of origin.
  - FamilyAtlasPlacesGeocode.csv:  List of raw locations from Ancestor_data run through the Family Atlas geocoding tool to generate standard location names and latitute-longitude.  About half of the raw locations had automated matches, and close matches required manual review and updating.
+
+
+
 
 
 
