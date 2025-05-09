@@ -13,6 +13,10 @@ While most ancestors lived in the same location all their lives, at certain peri
 
 This project makes a tentative first step in filling out the gaps in ancestor records by modeling the patterns of which time periods and which locations were more likely to have movement from ancestral homelands.
 
+## Ancestor Relationships Representation for Modeling
+
+![Lineage Graph](https://github.com/user-attachments/assets/48271115-551d-43fc-9bbc-39f20584f3af)
+
     
 ## Data Sources / Data Understanding
 Family history compiled, cleaned, labeled, merged, and analyzed from multiple sources from 2009 - 2024, and summarized in:  
@@ -22,9 +26,15 @@ https://github.com/mtmssteffen/dsnd-communicating-to-stakeholders-lesson
 
 
 
+## Visualizing migration 
+
+![scatter charts](https://github.com/user-attachments/assets/23ecb568-8125-4c70-bd14-1a6b057f83d2)
 
 
 
+## Visualizing migration over time
+
+![scatter charts by century](https://github.com/user-attachments/assets/1ee3994a-a19b-49ee-b6f8-87633dc51c6c)
 
 
 
