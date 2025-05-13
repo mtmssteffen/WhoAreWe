@@ -1,7 +1,7 @@
 # Who Are We?  Exploring the Ethnic Evolution of Our Ancestors
 ## Identify and predict patterns in migration of ancestors by time period and country. 
 project2-6 for Udacity Data Science course
-See https://mtmssteffen.github.io/ for blog post 
+See https://mtmssteffen.github.io/ for blog post with all charts and visualizations
 
 https://github.com/user-attachments/assets/5b71cc86-e44f-4aea-ba98-d3b0d2bd081e
 
@@ -40,11 +40,18 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 - scipy - For statistical modeling
 - networkx - For direct graph representation of genealogy relationships, cluster analysis, and graph metrics
   
-
 ## Summary of Results
-The analysis of ancestral migration patterns revealed several interesting insights:
-- Migration patterns
-- 
+
+### Which countries were the home location ancestors originated from?
+England has the highest number of ancestors by almost an order of magnitude over the next largest country France, but there is not a linear sequence from England to the present day United States.  Different branches of ancestors came from a variety of countries, and migrated to and from England in multiple periods of time over the past 2000 years.
+
+### Which countries had the highest numbers of ancestors who migrated to other countries?
+Again, England has the overall highest number of ancestors migrating both from and to the country, but this varied over time, and England had more incoming than outgoing - 836 vs 685
+
+### Which time periods had the highest numbers of ancestors who migrated to other countries?
+The years 1000 - 1099 had the highest absolute number of migration - 347, but the early centuries between 100 - 1000 all had higher percentages of the population migrate.  This is probably because records are few for these centuries and skewed towards historical people, monarchies, leaders, royal lines, etc.
+The years 1600 - 1700 were very close to the years 1000 - 1099 at 32% migration, and because of their place in history this period is the most representative of the "common people" who had to make the decision to leave their homeland and move to another country.
+
 ## Acknowledgements
 - FamilySearch.com is the original source for the majority of the genealogy complied in the ancestor_data.csv file
 - Other sources for genealogy records include BillionGraves.com, Ancestry.com, MyHeritage.com
